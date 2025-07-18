@@ -30,12 +30,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shenzylegend&show_icons=true&theme=radical&hide_title=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenzylegend&layout=compact&theme=radical" height="180"/>
+
 </p>
 
 ---
 
 ### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shenzylegend&theme=github-compact" />
+</p>
 
 ---
 
