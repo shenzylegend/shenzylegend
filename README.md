@@ -43,13 +43,6 @@
 
 ---
 
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shenzylegend&theme=onestar&column=6&margin-w=5" />
-</p>
-
----
 
 ### 🌐 Let's Connect
 
